@@ -1,0 +1,22 @@
+{
+    "device": "Samsung",
+    "model": "J2",
+    "app_version": "1",
+    "data": [
+        {
+            "timestamp": "6/11/2020, 2:30:49 AM",
+            "action": "Login Clicked",
+            "description": "User clicked login"
+        },
+        {
+            "timestamp": "6/22/2020, 12:49:44 PM",
+            "action": "Login Success",
+            "description": "Successfully Logged In"
+        },
+        {
+            "timestamp": "6/1/2020, 6:16:06 AM",
+            "action": "Clicked Logout",
+            "description": "User clicked logout"
+        }
+    ]
+}
