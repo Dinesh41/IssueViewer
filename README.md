@@ -28,5 +28,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Test files are in the files folder.
 
 ### Screenshots
-![Error](./files/screenshot1.png "error")
-![Log](./files/screenshot2.png "log")
+![Error](./files/screenshot1.PNG "error")
+![Log](./files/screenshot2.PNG "log")
